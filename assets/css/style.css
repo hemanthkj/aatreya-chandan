@@ -5,3 +5,13 @@
 .container-fluid .carousel-section{
     padding-left: 0;
 }
+
+.card{
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+footer{
+    padding: 4em 0;
+    background: #151515;
+}
